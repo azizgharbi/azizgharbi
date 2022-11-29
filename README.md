@@ -1,3 +1,3 @@
 - :helicopter: I’m working as software developer, Based in Montreal, Canada.
-- :eyes: Currently: **Go** **Lua** **Javascript** **Devops** n **cybersecurity**.
+- :eyes: Currently: **Go** **Lua** **Javascript/Typescript** **Devops** n **cybersecurity**.
 - :bowtie: Fun fact: No fun fact.
