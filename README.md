@@ -2,4 +2,4 @@
 - :eyes: Currently: **Go** **Lua** **Javascript/Typescript** **Devops** n **cybersecurity**.
 - :bowtie: Fun fact: No fun fact.
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizgharbi&show_icons=true&theme=merko)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizgharbi&theme=merko)
