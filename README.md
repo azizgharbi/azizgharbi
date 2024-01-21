@@ -3,3 +3,5 @@
 - :bowtie: Fun fact: No fun fact.
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizgharbi&theme=merko)
+
+- Workflow and tools: Awesome wm - zellij - Alacritty terminal - Arch manjaro - Broot. and you good to start your day.
