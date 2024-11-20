@@ -1,6 +1,6 @@
 - I’m working as software developer, Based in Montreal, Canada.
 - Currently: **Javascript/Typescript**  **Lua**  **Devops** **Python** **Aws** n **cybersecurity**.
-- I am on MacOs/Linux -> **tools** -> **wzterm** - **zellij** - **awesome/yabai** - **skhd** - **neovim** - **zed** - **zsh** - **broot**.
+- I am on MacOs/Linux -> **Tools** -> **wzterm** - **zellij** - **awesome/yabai** - **skhd** - **neovim** - **zed** - **zsh** - **broot**.
 ---
  **Dotfiles** are hidden because they're full of secrets... and that one embarrassing alias i don’t want the world to see! 😏
 
