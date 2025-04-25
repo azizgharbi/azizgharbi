@@ -1,8 +1,5 @@
-- I’m working as software developer, Based in Montreal, Canada.
-- Currently: **Javascript/Typescript**  | **Lua** | **Go** | **Devops** | **Python** | **Amazon web services** | **cybersecurity**.
+- Software, I ask questions and analyze. Finding solutions to existing problems brings ideas to life. I automate processes and make architectural decisions. In a world driven by trends, using the right tools and knowing the fundamentals matters.
 ---
- **Dotfiles** are hidden because they're full of secrets... w embarrassing alias i don’t want to share! 😏
 
- ---
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizgharbi&theme=merko)
