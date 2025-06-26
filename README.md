@@ -1,4 +1,4 @@
-- Software, I ask questions and analyze. Finding solutions to existing problems brings ideas to life. I automate processes and make architectural decisions. In a world driven by trends, using the right tools and knowing the fundamentals matters.
+- Software: I ask questions, analyze, and come up with solutions. I bring ideas to life, automate processes, and make architectural decisions. In a world driven by trends, using the right tools and solid fundamentals matters.
 ---
 
 
